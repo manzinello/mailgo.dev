@@ -31,7 +31,7 @@ module.exports = {
           customCss: ["../src/css/mailgo.css"],
         },
         sitemap: {
-          cacheTime: 600 * 1000,
+          // cacheTime: 600 * 1000,
           changefreq: "weekly",
           priority: 0.5,
           trailingSlash: false,
