@@ -26,12 +26,15 @@ Add at the end of the `<body>`
 
 ### head
 
-Alternatively, you can import mailgo in `<head>` using `defer`
+Alternatively, you can import mailgo in `<head>` using `defer` or `async`
 
 ```html
 <head>
   ...
-  <script src="https://unpkg.com/mailgo@3/dist/mailgo.min.js" defer></script>
+  <script
+    src="https://unpkg.com/mailgo@0.12.0/dist/mailgo.min.js"
+    async
+  ></script>
 </head>
 ```
 
