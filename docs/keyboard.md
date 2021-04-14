@@ -12,6 +12,7 @@ When a **mailgo** modal is showing, there are also keyboard commands that can pe
 - pressing <kbd>Y</kbd> perform the **open in Yahoo Mail** action;
 - pressing <kbd> Spacebar </kbd> or <kbd>Enter</kbd> perform the **open default** action;
 - pressing <kbd>C</kbd> perform the **copy** action.
+- pressing <kbd>A</kbd> perform the **custom** action.
 
 ## Tel modal
 
