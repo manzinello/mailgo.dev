@@ -20,7 +20,7 @@ Add at the end of the `<body>`
 ```html
 <body>
   ...
-  <script src="https://unpkg.com/mailgo@0.11.3/dist/mailgo.min.js"></script>
+  <script src="https://unpkg.com/mailgo@0.12.0/dist/mailgo.min.js"></script>
 </body>
 ```
 
@@ -103,7 +103,7 @@ require("mailgo/dist/mailgo.min.js");
 
 ## standalone
 
-Download the script <a href="https://unpkg.com/mailgo@0.11.3/dist/mailgo.min.js">here</a> and add it your page in body or head
+Download the script <a href="https://unpkg.com/mailgo@0.12.0/dist/mailgo.min.js">here</a> and add it your page in body or head
 
 ### body
 
