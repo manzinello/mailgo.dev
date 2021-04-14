@@ -22,7 +22,7 @@ module.exports = {
           // homePageId: "installation",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          editUrl: "https://github.com/manzinello/mailgo.dev/tree/master/docs/",
+          editUrl: "https://github.com/manzinello/mailgo.dev/tree/master/",
           path: "./docs",
           sidebarPath: "./sidebars.json",
         },
