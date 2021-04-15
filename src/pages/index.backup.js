@@ -146,7 +146,7 @@ class HomeSplash extends React.Component {
             </a>
             {" and "}
             <a
-              href="https://unpkg.com/mailgo@0.12.0/dist/mailgo.min.js"
+              href="https://unpkg.com/mailgo@0.12.1/dist/mailgo.min.js"
               target="_blank"
             >
               cdn

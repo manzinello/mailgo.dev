@@ -162,7 +162,7 @@ Here the same example deployed: https://vue-mailgo.mailgo.dev
 <a href="#mailgo" data-address="matteo" data-domain="mailgo.dev">write me!</a>
 
 <!-- install -->
-<script src="https://unpkg.com/mailgo@0.12.0/dist/mailgo.min.js"></script>
+<script src="https://unpkg.com/mailgo@0.12.1/dist/mailgo.min.js"></script>
 ```
 
 ### Hugo 0.60.0 and higher
@@ -191,7 +191,7 @@ layouts/shortcodes/mailgo.html
   </a>
 
   <!-- script automatically included wherever shortcode is used -->
-  <script src="https://unpkg.com/mailgo@0.12.0/dist/mailgo.min.js"></script>
+  <script src="https://unpkg.com/mailgo@0.12.1/dist/mailgo.min.js"></script>
 {{ end }}
 ```
 
