@@ -10,7 +10,7 @@ module.exports = {
   scripts: [
     {
       src: "https://unpkg.com/mailgo@0.12.1/dist/mailgo.min.js",
-      async: true,
+      // async: true,
     },
   ],
   favicon: "img/favicon-mailgo.png",
