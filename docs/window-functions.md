@@ -15,6 +15,7 @@ window.mailgoCheckRender = mailgoClickListener; // DEPRECATED, for compatibility
 window.mailgoPreRender = mailgoPreRender;
 window.mailgoDirectRender = mailgoDirectRender;
 window.mailgoRender = mailgoRender;
+window.mailgoValidateEmail = mailgoValidateEmail;
 window.mailgo = mailgo;
 ```
 
