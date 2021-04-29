@@ -51,9 +51,3 @@
   to = "https://wordpress.org/plugins/mailgo/"
   status = 301
   force = true
-
-[[redirects]]
-  from = "/magento"
-  to = "https://marketplace.magento.com/manzinello-mailgo.html"
-  status = 301
-  force = true

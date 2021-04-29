@@ -191,7 +191,6 @@ module.exports = {
               label: "Mailgo Chrome Extension",
               to: "https://github.com/manzinello/mailgo-chrome-extension",
             },
-
             {
               label: "Mailgo Firefox addon",
               to: "https://github.com/manzinello/mailgo-firefox-addon",
