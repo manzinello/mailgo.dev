@@ -4,13 +4,15 @@ title: Mailgo in Magento 2
 sidebar_label: Magento 2
 ---
 
-## Mailgo for Magento 2 extension on Marketplace
+## Mailgo for Magento 2 extension
+
+### GitHub
 
 **Mailgo Magento 2 official extension** is available on GitHub
 
 https://github.com/manzinello/magento2-mailgo
 
-## Composer / Packagist
+### Composer / Packagist
 
 Mailgo for Magento con be installed also through Composer / Packagist with the command
 
