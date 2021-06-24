@@ -9,7 +9,7 @@ module.exports = {
   projectName: "mailgo",
   scripts: [
     {
-      src: "https://unpkg.com/mailgo@0.12.1/dist/mailgo.min.js",
+      src: "https://unpkg.com/mailgo@0.12.2/dist/mailgo.min.js",
       // async: true,
     },
   ],
